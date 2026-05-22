@@ -18,6 +18,7 @@ Additional fire attributes are available via pop-up and a quantitative analysis 
 Which recent fire events in Australia contain the highest estimated population within a 3km radius?
 
 ## Project Structure
+```
 sds210-final-project
 |--- data/    # Raw and processed input data for project
       |--- raw/
@@ -28,6 +29,7 @@ sds210-final-project
 |--- .gitignore   # files that should be ignored when pushed up on github (e.g. raster files)
 |--- environment.yml    # lists all installed packages
 |--- README.md    # instructions to recreate project; additional informations on project
+```
 
 ## Setup
 1. Clone the repository
